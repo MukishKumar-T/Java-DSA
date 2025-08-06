@@ -19,7 +19,7 @@ class Node{
     }
 }
 
-public class Travesals {
+public class BinaryTreeTravesals {
     public static void main(String[] args) {
         Node node = new Node(1, null, null);
         Node left = new Node(2, null, null);

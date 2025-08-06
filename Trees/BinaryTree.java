@@ -15,7 +15,7 @@ class Node{
     }
 }
 
-public class TreeImpl {
+public class BinaryTree {
     public static void main(String[] args) {
         Node node = new Node(1, null, null);
         Node left = new Node(2, null, null);
